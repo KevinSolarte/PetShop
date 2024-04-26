@@ -1,0 +1,7 @@
+{
+  "name": "ClaseVeterinaria",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
